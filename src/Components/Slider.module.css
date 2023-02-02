@@ -1,0 +1,15 @@
+.sliderRail {
+    color: #fcfcfc;
+}
+
+.sliderThumb {
+    color: #79e5e6;
+    height: 10px;
+    width: 10px;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+.sliderTrack {
+    color: #79e5e6;
+}
